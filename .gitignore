@@ -23,7 +23,7 @@ out/
 
 # --- Secrets & Environment (CRITICAL) ---
 # This ensures application.properties remains private on your machine
-#**/src/main/resources/application.properties
+**/src/main/resources/application.properties
 .env
 local.properties
 
